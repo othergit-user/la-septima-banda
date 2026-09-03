@@ -1,0 +1,12 @@
+*.zip
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.pdf
+*.pptx
+*.html
+*_files/
+.env
+dist/
+build/
