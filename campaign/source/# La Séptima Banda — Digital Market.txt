@@ -1,0 +1,1315 @@
+# La Séptima Banda — Digital Marketing & Live Concert Campaign Master Brief
+
+## 1. Campaign Overview
+
+### Artist
+**La Séptima Banda**
+
+### Focus Track
+**“Se Defiende”** — live-performance footage and crowd-singalong moments.
+
+### Primary Objective
+
+Drive measurable revenue and audience growth for La Séptima Banda live concert dates through:
+
+- Digital presale ticket sales
+- Physical box-office sales
+- VIP/table reservations via WhatsApp
+- Regional Mexican audience growth
+- Retargetable video-viewer and engagement audiences
+- First-party CRM and WhatsApp audience development
+- Reusable creative and audience intelligence for future tour dates
+
+### Core Campaign Concept
+
+> **No vendas solamente el concierto. Vende la experiencia sinaloense.**
+
+The campaign should make people **feel the energy of a La Séptima Banda live show before asking them to purchase.**
+
+### Core Funnels
+
+**General Admission**
+
+`WATCH → FEEL → ENGAGE → CHECK DATE → BUY`
+
+**VIP**
+
+`WATCH → WANT VIP → WHATSAPP → QUALIFY → RESERVE → PAYMENT`
+
+---
+
+# 2. Brand Positioning & UVP
+
+## Brand Positioning
+
+La Séptima Banda represents a high-energy Sinaloense live experience built around:
+
+- Powerful banda arrangements
+- High-energy performances
+- Signature stage presentation
+- Crowd interaction
+- Singalong moments
+- Regional Mexican culture
+- Friends-and-family experiences
+
+## Core UVP
+
+> **La experiencia sinaloense definitiva: un show en vivo imponente, energético e inolvidable con el sonido característico de La Séptima Banda.**
+
+## Proof Points
+
+Use only when verified:
+
+- Packed venues
+- Sold-out shows
+- Crowd singalongs
+- Fan testimonials
+- UGC
+- Performance footage
+- Audience reactions
+- VIP/table experiences
+
+---
+
+# 3. Campaign Goals & KPIs
+
+| Goal | Primary KPI | Secondary KPI |
+|---|---|---|
+| Ticket Sales | Purchases | ROAS, conversion rate |
+| VIP Reservations | Paid reservations | Qualified WhatsApp leads |
+| Awareness | Reach | CPM, frequency |
+| Video Engagement | ThruPlay / completion | Cost per viewer |
+| Consideration | Landing-page views | CTR |
+| Retargeting | ATC / checkout | Purchase rate |
+| Audience Growth | New engaged users | CRM growth |
+| WhatsApp | Qualified conversations | Reservation rate |
+
+## Important Measurement Principle
+
+Do not optimize only for cheap traffic or messaging volume.
+
+The business outcome is:
+
+`Ad → Qualified Intent → Purchase/Reservation → Revenue`
+
+---
+
+# 4. Target Audience
+
+## Primary — Ages 25–45
+
+### Profile
+
+- Men and women
+- Regional Mexican music fans
+- Banda/Norteño/Mariachi audiences
+- Concertgoers
+- Friends and family groups
+- Adults planning nights out
+- Previous live-event attendees
+
+### Messaging
+
+- Live experience
+- Friends/family
+- Music
+- Sinaloense tradition
+- Energy
+- Easy ticket purchase
+- VIP/table experiences
+
+### Channels
+
+- Facebook
+- Instagram
+- WhatsApp
+- YouTube
+- Local media/radio where applicable
+
+---
+
+## Secondary — Ages 18–24
+
+### Profile
+
+- Younger Regional Mexican fans
+- TikTok/Reels-heavy users
+- Concert/festival audiences
+- Social-first consumers
+- UGC creators and sharers
+
+### Messaging
+
+- FOMO
+- Energy
+- Social proof
+- “You had to be there”
+- Short-form video
+- Trending formats
+- Friends/group attendance
+
+### Channels
+
+- TikTok
+- Instagram Reels
+- YouTube Shorts
+
+---
+
+## Tertiary — Industry
+
+Target separately from consumer campaigns:
+
+- Promoters
+- Talent buyers
+- Regional Mexican media
+- Venues
+- Event partners
+- Booking contacts
+- Music publications
+- Creators/influencers
+
+### Channels
+
+- WhatsApp Business
+- Email
+- Instagram
+- LinkedIn where appropriate
+
+---
+
+# 5. Geographic Strategy
+
+## Mexico
+
+Priority markets:
+
+- Sinaloa
+- Jalisco
+- Nuevo León
+- CDMX
+- Estado de México
+
+## United States
+
+Priority states:
+
+- California
+- Texas
+- Arizona
+- Illinois
+- Nevada
+
+Priority metros may include:
+
+- Los Angeles
+- Houston
+- Phoenix
+- Chicago
+- Las Vegas
+
+## Geo Optimization Rule
+
+For each concert:
+
+1. Start with a venue-centered radius.
+2. Expand based on ticket demand and historical attendance.
+3. Compare CPA/ROAS by geography.
+4. Reallocate budget toward profitable markets.
+5. Build city-specific audiences for future tour stops.
+
+---
+
+# 6. Pre-Launch Tracking Checklist
+
+## Meta / Website
+
+- [ ] Meta Pixel installed
+- [ ] Conversions API installed
+- [ ] Purchase event verified
+- [ ] InitiateCheckout verified
+- [ ] AddToCart verified where applicable
+- [ ] LandingPageView verified
+- [ ] Event deduplication tested
+- [ ] Domain/event configuration verified where applicable
+
+## Ticketing
+
+- [ ] Ticket URL verified
+- [ ] Purchase flow tested on mobile
+- [ ] Pricing verified
+- [ ] Inventory status verified
+- [ ] Presale deadline verified
+- [ ] Sold-out status can be detected
+- [ ] Event feed/CSV available where supported
+
+## UTM Structure
+
+Every paid link should use a consistent structure:
+
+`utm_source`
+
+`utm_medium`
+
+`utm_campaign`
+
+`utm_content`
+
+`utm_term`
+
+### Example
+
+```text
+utm_source=meta
+utm_medium=paid_social
+utm_campaign=septima_[city]_[date]
+utm_content=se_defiende_live_v1
+utm_term=broad_25_45
+```
+
+TikTok example:
+
+```text
+utm_source=tiktok
+utm_medium=paid_social
+utm_campaign=septima_[city]_[date]
+utm_content=se_defiende_live_v1
+utm_term=broad_18_24
+```
+
+---
+
+# 7. WhatsApp Business Setup
+
+## Click-to-WhatsApp
+
+Suggested pre-filled message:
+
+> Hola, quiero información para reservar una mesa VIP para La Séptima Banda.
+
+## Qualification Flow
+
+### Question 1
+
+> ¿Para cuántas personas sería la mesa?
+
+### Question 2
+
+> ¿Buscas mesa VIP para [FECHA] en [CIUDAD]?
+
+### Question 3
+
+> Tenemos diferentes opciones disponibles. ¿Quieres que te mande precios y disponibilidad?
+
+### Close
+
+> Perfecto. Te paso las opciones disponibles para que puedas elegir tu mesa. ¿Te gustaría que te apartemos la mejor disponible?
+
+## Track the Complete Funnel
+
+Do not stop at:
+
+`Messaging Conversation Started`
+
+Track:
+
+`Conversation → Qualified Lead → Reservation → Payment`
+
+---
+
+# 8. Campaign Architecture
+
+## Phase 0 — Warm Audience Ignition
+
+**Timing:** 4–6 weeks before event
+
+### Objective
+
+Reactivate people who already know La Séptima Banda.
+
+### Audiences
+
+- Past ticket buyers
+- CRM lists
+- Email subscribers
+- WhatsApp contacts where permitted
+- Instagram engagers
+- Facebook engagers
+- Website visitors
+- Previous video viewers
+
+### Creative
+
+- Live performance clips
+- Behind-the-scenes
+- Previous concert footage
+- Crowd reactions
+- Fan testimonials
+- UGC
+
+### Primary CTA
+
+> **Conoce la fecha**
+
+---
+
+# 9. TOF — Awareness
+
+**Timing:** 3–5 weeks before event
+
+### Objective
+
+Generate broad awareness and high-quality video consumption.
+
+### Formats
+
+- 15-second Reels
+- TikTok videos
+- Stories
+- Feed video
+- YouTube Shorts where applicable
+
+### Creative Focus
+
+**“Se Defiende” live performance**
+
+The first 1–2 seconds must immediately communicate energy.
+
+### Hook Examples
+
+> **¿YA ESCUCHASTE ESTO EN VIVO?**
+
+> **ASÍ SUENA LA SÉPTIMA BANDA EN VIVO.**
+
+> **ESTO ES LO QUE TE VAS A PERDER.**
+
+### Optimization
+
+- Video views
+- ThruPlay
+- Quality video engagement
+
+---
+
+# 10. MOF — Consideration
+
+**Timing:** 2–3 weeks before event
+
+### Objective
+
+Convert awareness into event consideration.
+
+### Audiences
+
+- 25%+ video viewers
+- 50%+ video viewers
+- Website visitors
+- Event-page visitors
+- Social engagers
+- Instagram profile visitors
+
+### Creative
+
+- Event details
+- Venue
+- Seating map
+- Ticket pricing
+- Social proof
+- Live crowd footage
+- Testimonials
+- Four-slide carousel
+
+### CTA
+
+> **Compra tus boletos**
+
+---
+
+# 11. BOF — Conversion
+
+**Timing:** Final 7–10 days
+
+### Objective
+
+Generate ticket purchases and VIP reservations.
+
+### Audiences
+
+- Add-to-cart users
+- Initiate-checkout users
+- Ticket-page visitors
+- Pricing-page visitors
+- High-intent social engagers
+- Recent website visitors
+- VIP-interest audiences
+
+### Creative Hooks
+
+- **Últimos boletos**
+- **Cierra preventa hoy**
+- **Mañana sube el precio**
+- **La fecha ya está aquí**
+- **Últimas mesas VIP**
+
+Only use scarcity claims when inventory/deadlines are verified.
+
+### Optimization
+
+- Purchase
+- Initiate checkout
+- Messaging conversations
+- Qualified VIP leads
+
+---
+
+# 12. Separate Ticket & VIP Funnels
+
+## General Admission
+
+```text
+VIDEO
+↓
+EVENT PAGE
+↓
+TICKET PAGE
+↓
+CHECKOUT
+↓
+PURCHASE
+```
+
+## VIP
+
+```text
+VIDEO / STATIC AD
+↓
+CLICK-TO-WHATSAPP
+↓
+QUALIFICATION
+↓
+TABLE OPTIONS
+↓
+RESERVATION
+↓
+PAYMENT
+```
+
+Do not evaluate both funnels using identical KPIs.
+
+---
+
+# 13. Creative System
+
+Build the campaign around five repeatable creative angles.
+
+| Creative Angle | Hook | Visual |
+|---|---|---|
+| LIVE ENERGY | “Así suena La Séptima Banda EN VIVO.” | Biggest performance moment |
+| FOMO | “Esto es lo que te vas a perder…” | Crowd reaction |
+| SOCIAL NIGHT | “¿Con quién vas?” | Friends/family |
+| PROOF | “La gente ya sabe cómo se pone…” | Packed venue / UGC |
+| URGENCY | “Últimos boletos.” | Event graphic + countdown |
+
+## Creative Philosophy
+
+Do not simply advertise the song.
+
+Use **“Se Defiende”** to sell the **live experience**.
+
+---
+
+# 14. Reel / TikTok Formula
+
+## 15-Second Structure
+
+| Time | Content |
+|---|---|
+| 0–2 sec | Immediate crowd/performance impact |
+| 2–5 sec | La Séptima Banda performing |
+| 5–8 sec | Crowd singing/dancing |
+| 8–11 sec | Date + city + venue |
+| 11–13 sec | Ticket/VIP availability |
+| 13–15 sec | CTA + logo |
+
+## Example On-Screen Copy
+
+### 0–2s
+
+> 🔥 **¿YA ESCUCHASTE ESTO EN VIVO?**
+
+### 2–5s
+
+> **LA SÉPTIMA BANDA**
+
+### 5–8s
+
+> **#SeDefiende**
+
+### 8–11s
+
+> **[CIUDAD] • [FECHA]**  
+> **[VENUE]**
+
+### 11–13s
+
+> 🎟️ **BOLETOS YA DISPONIBLES**
+
+### 13–15s
+
+> **COMPRA / RESERVA AHORA**
+
+---
+
+# 15. Creative Asset Specifications
+
+| Asset | Dimensions | Primary Use |
+|---|---:|---|
+| Square Poster | 1080 × 1080 | Instagram/Facebook Feed |
+| Vertical Poster | 1080 × 1920 | Stories/Reels/WhatsApp |
+| Horizontal Banner | 1920 × 1080 | Web/Cover/Screens |
+| Reel/TikTok | 1080 × 1920 | Short-form video |
+| Carousel | 1080 × 1350 | Event information |
+
+## Video Requirements
+
+- 1080 × 1920
+- 9:16
+- 15 seconds for core ads
+- Captions enabled
+- Strong first 1–2 seconds
+- Mobile-first typography
+- MP4 export
+- High-quality source footage
+- Rights cleared for paid promotion
+
+---
+
+# 16. Four-Slide Carousel
+
+## Slide 1 — Event
+
+Include:
+
+- La Séptima Banda logo
+- Event date
+- City
+- Venue
+- Main artist imagery
+
+## Slide 2 — Tickets
+
+Include:
+
+- Seating map
+- General admission
+- VIP
+- Pricing
+- Restrictions/conditions where applicable
+
+## Slide 3 — Purchase
+
+Include:
+
+- Online ticket platform
+- Physical outlets
+- QR code if available
+- Purchase instructions
+
+## Slide 4 — VIP
+
+Include:
+
+- VIP benefits
+- Table information
+- WhatsApp icon
+- Official WhatsApp number
+- Short reservation CTA
+
+---
+
+# 17. Copywriting System
+
+## Primary Audience — 25–45
+
+### Variation A — Experience
+
+> **Así suena una noche con La Séptima Banda. 🔥🎺**
+>
+> Música, amigos y toda la energía sinaloense en una sola noche.
+>
+> 📍 [CIUDAD]  
+> 📅 [FECHA]  
+> 📍 [VENUE]
+>
+> 🎟️ **Boletos ya disponibles.**
+>
+> ¿Con quién vas a cantar *Se Defiende*?
+>
+> **Compra tus boletos antes de que se acaben.**
+
+### Variation B — FOMO
+
+> **Si nunca has visto a La Séptima Banda en vivo… esta es tu señal. 🔥**
+>
+> *Se Defiende* se siente diferente cuando todo el público la canta contigo.
+>
+> 📅 [FECHA]  
+> 📍 [VENUE]
+>
+> 🎟️ **Preventa disponible.**
+>
+> **Aparta tu lugar.**
+
+### Variation C — Social
+
+> **La noche empieza con una pregunta: ¿a quién vas a llevar? 🍻🎺**
+>
+> La Séptima Banda llega a [CIUDAD].
+>
+> Música en vivo, ambiente y todos los éxitos para cantar toda la noche.
+>
+> 🎟️ [FECHA] • [VENUE]
+>
+> **Consigue tus boletos ahora.**
+
+---
+
+# 18. Secondary Audience — Ages 18–24
+
+## Variation A
+
+> **POV: dijiste que sí ibas. 🔥**
+>
+> Ahora falta comprar el boleto.
+>
+> **La Séptima Banda — [CIUDAD]**
+>
+> 🎟️ [FECHA]
+>
+> **¿Vas o te lo van a contar?**
+
+## Variation B
+
+> **NO DIGAS QUE NO TE AVISAMOS. 👀**
+>
+> La Séptima Banda en vivo.
+>
+> 📍 [VENUE]  
+> 📅 [FECHA]
+>
+> 🎟️ **Últimos boletos.**
+
+## Variation C
+
+> **Esta canción en vivo >>>**
+>
+> 🔥 *Se Defiende*  
+> 🔥 La Séptima Banda  
+> 🔥 [CIUDAD]
+>
+> **¿Quién va contigo?**
+
+---
+
+# 19. VIP Creative
+
+## Premium
+
+> **La noche se disfruta diferente desde una Mesa VIP. 🥂**
+>
+> 🔥 La Séptima Banda en vivo  
+> 🎟️ Acceso VIP  
+> 🥂 [BOTELLA/INCLUSIONES SI APLICA]
+>
+> 📍 [VENUE]  
+> 📅 [FECHA]
+>
+> **Mesas limitadas.**
+>
+> 📲 Reserva directamente por WhatsApp.
+
+## Scarcity
+
+> **¿Quieres estar cerca del escenario?**
+>
+> Quedan **[X] mesas VIP** para La Séptima Banda.
+>
+> 📍 [VENUE]  
+> 📅 [FECHA]
+>
+> 📲 **Manda “VIP” por WhatsApp para consultar disponibilidad.**
+
+Only use `[X] mesas` when inventory is verified.
+
+---
+
+# 20. Budget & Pacing
+
+## Starting Allocation
+
+| Campaign Period | TOF | MOF | BOF / VIP |
+|---|---:|---:|---:|
+| 4–6 weeks out | 60% | 25% | 15% |
+| 3 weeks out | 45% | 35% | 20% |
+| 2 weeks out | 30% | 40% | 30% |
+| Final 7 days | 15% | 40% | 45% |
+| Final 72 hours | 10% | 30% | 60% |
+
+The budget should become progressively more concentrated on high-intent audiences as the event approaches.
+
+---
+
+# 21. KPI Benchmarks
+
+## TOF
+
+Track:
+
+- CPM
+- Reach
+- Frequency
+- Video completion rate
+- ThruPlay
+- Cost per ThruPlay
+
+Initial creative benchmark:
+
+- 15-second video completion target: approximately 25–30%+
+
+## MOF
+
+Track:
+
+- CTR
+- Landing-page views
+- Cost per landing-page view
+- Add-to-cart
+- Initiate checkout
+
+Initial CTR benchmark:
+
+- Approximately 1.2–1.8% as a testing reference
+
+## BOF
+
+Track:
+
+- Purchases
+- Cost per purchase
+- ROAS
+- Checkout conversion rate
+- Revenue
+- VIP qualified leads
+- Cost per qualified WhatsApp lead
+- WhatsApp-to-reservation rate
+
+### ROAS Rule
+
+Do not automatically assume a universal 3–5x ROAS target.
+
+Calculate the actual break-even ROAS from event contribution margin.
+
+Example:
+
+If $100 in ticket revenue leaves $40 available to cover advertising and profit:
+
+`Break-even ROAS = 1 ÷ 0.40 = 2.5x`
+
+VIP should be calculated separately because its economics may differ substantially from general admission.
+
+---
+
+# 22. Retargeting Structure
+
+## 90-Day Warm
+
+- Instagram engagement
+- Facebook engagement
+- Video viewers
+- Website visitors
+- Previous buyers
+
+## 30-Day High Intent
+
+- 50%+ video viewers
+- Event-page visitors
+- Ticket-page visitors
+- Instagram profile visitors
+- WhatsApp conversations
+
+## 14-Day Hot
+
+- Add-to-cart
+- Initiate checkout
+- Pricing-page visitors
+- Repeat website visitors
+
+## 7-Day Hottest
+
+- Checkout abandoners
+- Recent ticket-page visitors
+- VIP WhatsApp conversations
+- High-intent engagers
+
+---
+
+# 23. Creative Testing Matrix
+
+Test individual variables instead of producing large numbers of unrelated ads.
+
+| Test | Version A | Version B |
+|---|---|---|
+| Hook | “Así suena en vivo” | “Esto te vas a perder” |
+| Visual | Band performance | Crowd reaction |
+| CTA | “Compra boletos” | “Aparta tu lugar” |
+| Social proof | Crowd | UGC |
+| Offer | Presale | Last tickets |
+| Format | 15s Reel | 9s TikTok |
+
+## Testing Rule
+
+Determine **why** a creative wins:
+
+- Hook
+- Visual
+- Offer
+- Audience
+- CTA
+- Format
+- Timing
+
+Then scale the winning variable.
+
+---
+
+# 24. Frequency & Creative Refresh
+
+## TOF
+
+Target reference:
+
+- Frequency ≤ approximately 2.5 per 7 days
+
+## MOF / BOF
+
+Target reference:
+
+- Frequency ≤ approximately 4 per 7 days
+
+These are starting guidelines rather than hard rules. Monitor CPM, CTR, conversion rate, and creative fatigue together.
+
+## Refresh Schedule
+
+### TOF
+
+New creative approximately every 7–10 days.
+
+### BOF
+
+New urgency angle approximately every 3–4 days.
+
+Possible angles:
+
+- Presale deadline
+- Price increase
+- Remaining tickets
+- Event countdown
+- VIP availability
+- Event-week messaging
+
+---
+
+# 25. Final 72-Hour Strategy
+
+The final three days should look substantially different from the launch campaign.
+
+## 72 Hours
+
+> 🔥 **FALTAN 3 DÍAS**
+
+## 48 Hours
+
+> 🎺 **ESTE FIN DE SEMANA SE CANTA #SeDefiende EN [CIUDAD].**
+
+## 24 Hours
+
+> 🚨 **MAÑANA.**
+>
+> Última oportunidad para conseguir tus boletos.
+
+## Event Day
+
+> 🔥 **HOY ES LA NOCHE.**
+>
+> La Séptima Banda en [VENUE].
+>
+> 🎟️ **Últimos boletos disponibles.**
+
+## VIP Event Day
+
+> 🥂 **HOY.**
+>
+> ¿Todavía buscas mesa VIP?
+>
+> 📲 Escríbenos por WhatsApp para consultar disponibilidad.
+
+Only use real-time scarcity/inventory statements that have been verified.
+
+---
+
+# 26. Official Brand & Creative Guidelines
+
+## Required Branding
+
+Every applicable asset should include:
+
+- **La Séptima Banda**
+- Correct accent mark on **Séptima**
+- Official logo
+- Event date
+- City
+- Venue
+- Ticket CTA
+- Official WhatsApp contact where applicable
+
+## Visual Palette
+
+### Royal / Navy Blue
+
+Primary concert/stage foundation.
+
+### Gold / Neon Yellow
+
+Headline and emphasis color.
+
+### Neon Green
+
+Dynamic accent and WhatsApp association.
+
+## Typography
+
+### Headlines
+
+- High-impact serif
+- Stylized/cursive treatment where consistent with official branding
+
+### Body
+
+- Bold sans-serif
+- High contrast
+- Uppercase where useful
+
+## Accessibility
+
+- Maintain strong contrast.
+- Avoid placing critical information over visually busy footage.
+- Use gradients/solid overlays when necessary.
+- Check mobile readability.
+- Keep important information inside platform safe zones.
+
+---
+
+# 27. Hashtag Strategy
+
+## Official Hashtags
+
+`#LaSeptimaBanda`
+
+`#SeDefiende`
+
+`#SienteTuMusica`
+
+`#MusicaBanda`
+
+`#EnVivo`
+
+`#BandaSinaloense`
+
+## Usage
+
+### Instagram
+
+Use approximately 3–5 relevant hashtags.
+
+### TikTok
+
+Use approximately 1–3 highly relevant hashtags.
+
+Keep core brand hashtags consistent while rotating supporting tags.
+
+---
+
+# 28. Timeline
+
+## Week 1
+
+- [ ] Approve creative brief
+- [ ] Verify event details
+- [ ] Collect high-resolution logos
+- [ ] Collect live footage
+- [ ] Collect press photos
+- [ ] Collect UGC/testimonials
+- [ ] Verify music/footage rights
+- [ ] Configure tracking
+- [ ] Configure UTMs
+- [ ] Configure WhatsApp flow
+
+## Week 2
+
+- [ ] Produce static posters
+- [ ] Produce carousel
+- [ ] Edit Reels
+- [ ] Edit TikToks
+- [ ] Create captions
+- [ ] Build Meta campaigns
+- [ ] Build TikTok campaigns
+- [ ] Build audiences
+- [ ] Configure Click-to-WhatsApp ads
+- [ ] Test qualification flow
+
+## Week 3
+
+- [ ] Launch presale campaigns
+- [ ] Launch warm audience campaign
+- [ ] Launch TOF
+- [ ] Activate creator/influencer content where applicable
+- [ ] Monitor CPM
+- [ ] Monitor CTR
+- [ ] Monitor video completion
+- [ ] Monitor messaging cost
+- [ ] Verify purchase tracking
+
+## Final 10 Days
+
+- [ ] Increase MOF/BOF budget
+- [ ] Launch urgency creatives
+- [ ] Retarget high-intent audiences
+- [ ] Monitor ticket inventory
+- [ ] Monitor VIP availability
+- [ ] Refresh fatigued creative
+
+## Final 72 Hours
+
+- [ ] Shift majority of spend toward high intent
+- [ ] Launch countdown creative
+- [ ] Verify inventory
+- [ ] Verify ticket pricing
+- [ ] Verify WhatsApp availability
+- [ ] Increase frequency where profitable
+- [ ] Pause inaccurate/sold-out offers
+
+## Event Day
+
+- [ ] Publish real-time Stories
+- [ ] Publish Reels/TikToks
+- [ ] Capture crowd footage
+- [ ] Capture UGC
+- [ ] Capture VIP footage
+- [ ] Capture testimonials
+- [ ] Save high-performing footage for future campaigns
+
+## Post-Event
+
+- [ ] Export campaign data
+- [ ] Identify top creatives
+- [ ] Identify top geographies
+- [ ] Identify best audience segments
+- [ ] Build post-event engagement audiences
+- [ ] Add purchasers to CRM
+- [ ] Document VIP conversion data
+- [ ] Build creative library for next tour stop
+
+---
+
+# 29. Event-Day Content Capture
+
+Capture footage specifically for future paid campaigns.
+
+## Priority Shots
+
+1. Crowd reaction
+2. Crowd singing “Se Defiende”
+3. Band close-ups
+4. Wide stage shots
+5. Friends enjoying the show
+6. VIP/table experience
+7. Venue atmosphere
+8. Artist-to-crowd interaction
+9. Strong lighting moments
+10. Short fan testimonials
+
+## Content Rule
+
+Every event should produce enough usable content to create the next campaign.
+
+The concert is not the end of the marketing cycle.
+
+It is the **content-production engine for the next tour stop.**
+
+---
+
+# 30. Compliance & Risk
+
+Before launch:
+
+- [ ] Verify music rights for paid advertising
+- [ ] Verify performance-footage rights
+- [ ] Verify artist/venue usage permissions
+- [ ] Verify ticket claims
+- [ ] Verify pricing
+- [ ] Verify presale deadlines
+- [ ] Verify VIP inventory
+- [ ] Verify WhatsApp number
+- [ ] Verify venue/date
+- [ ] Avoid misleading scarcity
+- [ ] Avoid “sold out” claims unless verified
+- [ ] Clearly communicate conditions on offers
+- [ ] Follow Meta advertising policies
+- [ ] Follow TikTok advertising policies
+- [ ] Follow applicable ticketing/platform requirements
+
+---
+
+# 31. Approval Checklist
+
+- [ ] Official name is spelled **La Séptima Banda**
+- [ ] Official logo is high resolution
+- [ ] Event date is verified
+- [ ] City is verified
+- [ ] Venue is verified
+- [ ] Ticket link is active
+- [ ] Ticket pricing is accurate
+- [ ] Presale deadline is accurate
+- [ ] VIP availability is accurate
+- [ ] WhatsApp contact is active
+- [ ] WhatsApp prefilled message works
+- [ ] Pixel is firing
+- [ ] CAPI is firing
+- [ ] Purchase event is verified
+- [ ] UTMs are functioning
+- [ ] Creative is legible on mobile
+- [ ] Music rights are cleared
+- [ ] Video exports are correct
+- [ ] Static assets are exported as PNG
+- [ ] Video assets are exported as MP4
+- [ ] All scarcity claims are verified
+
+---
+
+# 32. Strategic Operating Principles
+
+## Principle 1 — Sell the Experience
+
+The audience should imagine themselves inside the concert before they see the ticket CTA.
+
+## Principle 2 — Make “Se Defiende” the Creative Engine
+
+Use the track as the emotional bridge between:
+
+`Music → Crowd → Experience → Event → Purchase`
+
+## Principle 3 — Separate GA and VIP
+
+General admission is primarily an ecommerce conversion funnel.
+
+VIP is a sales/conversation funnel.
+
+## Principle 4 — Retarget Intent
+
+Do not keep spending heavily on cold traffic when large pools of high-intent users are available.
+
+## Principle 5 — Use Real Scarcity
+
+Only advertise:
+
+- Remaining tickets
+- Remaining tables
+- Price increases
+- Presale deadlines
+
+when the information is verified.
+
+## Principle 6 — Build First-Party Audiences
+
+Every concert should make the next concert easier to sell.
+
+Build:
+
+- CRM
+- Email audiences
+- WhatsApp leads
+- Purchaser audiences
+- Video-viewer audiences
+- Social engagement audiences
+- VIP buyer audiences
+
+## Principle 7 — Measure Revenue, Not Vanity Metrics
+
+A cheap click is not automatically valuable.
+
+A cheap WhatsApp conversation is not automatically valuable.
+
+A high video-view rate is not automatically valuable.
+
+The ultimate measurement is:
+
+> **How efficiently did marketing generate profitable ticket and VIP revenue while building a reusable audience?**
+
+---
+
+# 33. Master Campaign Flow
+
+```text
+LA SÉPTIMA BANDA
+        ↓
+“SE DEFIENDE” LIVE CONTENT
+        ↓
+AWARENESS
+        ↓
+VIDEO ENGAGEMENT
+        ↓
+RETARGETING
+        ↓
+EVENT CONSIDERATION
+        ↓
+┌─────────────────────┬──────────────────────┐
+│                     │                      │
+▼                     ▼                      │
+GENERAL ADMISSION     VIP                   │
+│                     │                      │
+▼                     ▼                      │
+TICKET PAGE           WHATSAPP              │
+│                     │                      │
+▼                     ▼                      │
+CHECKOUT              QUALIFICATION         │
+│                     │                      │
+▼                     ▼                      │
+PURCHASE              RESERVATION            │
+│                     │                      │
+└──────────────┬──────┴──────────────────────┘
+               ↓
+             REVENUE
+               ↓
+        CRM / AUDIENCE DATA
+               ↓
+        NEXT TOUR DATE
+```
+
+---
+
+# 34. Final Campaign Objective
+
+The campaign should create a repeatable system in which every La Séptima Banda concert generates:
+
+1. **Ticket revenue**
+2. **VIP revenue**
+3. **Video viewers**
+4. **Social engagers**
+5. **Website visitors**
+6. **WhatsApp leads**
+7. **Customer data**
+8. **UGC**
+9. **Creative assets**
+10. **Audience intelligence**
+
+The long-term objective is to transform individual concert promotions into a **compounding Regional Mexican audience and revenue engine** for La Séptima Banda.
